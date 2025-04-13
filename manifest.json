@@ -1,8 +1,8 @@
 {
   "id": "autoplay-for-spaced-repetition",
   "name": "Autoplay & Loop For SR cards",
-  "version": "1.0.1",
-  "description": "This Obsidian plugin autoplay videos inside space repetition cards.",
+  "version": "1.0.0",
+  "description": "Plugin to autoplay videos/audio inside space repetition cards.",
   "author": "Zerkshop & Wapply & pchampio",
   "authorUrl": "https://github.com/pchampio",
   "minAppVersion": "1.5.11",
