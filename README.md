@@ -1,2 +1,2 @@
-# obsidian-autoplay-and-loop
-This Obsidian plugin autoplay videos inside and outside notes.
+# obsidian-autoplay-and-loop-for-spaced-repetition
+This Obsidian plugin autoplay videos inside cards
