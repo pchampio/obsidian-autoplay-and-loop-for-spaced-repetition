@@ -1,7 +1,7 @@
 {
-	"name": "autoplay-and-loop",
+	"name": "autoplay-and-loop-for-spaced-repetition ",
 	"version": "1.0.0",
-	"description": "Auto reproduces videos inside notes.",
+	"description": "This Obsidian plugin autoplay videos inside space repetition cards .",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
