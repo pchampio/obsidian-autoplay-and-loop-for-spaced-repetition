@@ -1,2 +1,3 @@
-# obsidian-autoplay-and-loop-for-spaced-repetition
+# obsidian-autoplay-for-spaced-repetition-cards
+
 This Obsidian plugin autoplay videos inside cards
